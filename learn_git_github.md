@@ -145,7 +145,6 @@ _These three states correspond to three main sections of a git project:_
 **Push**: Note that until you “push”, everything you commit remains local on your machine—ie, committing just takes a snapshot to be moved in a push. To get code on Github, we need to connect your local repo to your Github account (see next section).
 <br />
 <br />
- 
 * *Files in your working directory can be in one of two states: tracked—files that were in your last commit—and untracked—everything else (not committed, not staged).* 
 <br />
 
