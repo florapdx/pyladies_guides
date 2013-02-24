@@ -1,4 +1,4 @@
-#Learn Git and Github (a pyladies primer)
+#Learn Git and Github
 ………………………………………………………………………
  
 ##What is Git?
@@ -126,15 +126,15 @@ _These three states correspond to three main sections of a git project:_
  
 **Basic workflow**:
 
-1.     Create Git directory
+1. Create Git directory
 
-2.     Run “git init” and create branches
+2. Run “git init” and create branches
 
-3.     Modify files in active/working directory
+3. Modify files in active/working directory
 
-4.     Stage files to be committed
+4. Stage files to be committed
 
-5.     Commit files to Git directory
+5. Commit files to Git directory
 <br />
 <br />
  
@@ -146,13 +146,13 @@ _These three states correspond to three main sections of a git project:_
 <br />
 <br />
  
-*_Files in your working directory can be in one of two states: tracked—files that were in your last commit—and untracked—everything else (not committed, not staged)._
+* *Files in your working directory can be in one of two states: tracked—files that were in your last commit—and untracked—everything else (not committed, not staged).* 
 <br />
 
-**_You may choose to skip the staged phase entirely; a reason not to skip this step is so you don’t have to commit your entire working directory, just the parts that you’ve modified. Staging allows one to more easily divide small changes into separate commits so that you can more easily roll back changes if you need to without the performance drain of recommitting code over and over._
+** *You may choose to skip the staged phase entirely; a reason not to skip this step is so you don’t have to commit your entire working directory, just the parts that you’ve modified. Staging allows one to more easily divide small changes into separate commits so that you can more easily roll back changes if you need to without the performance drain of recommitting code over and over.*
 <br />
 
-**_Warning: Git will do its best to compress files, but large files can cause your repo to become unwieldy. Try to avoid committing things like compressed files (.zips, etc), compiled code (object files, libraries, executables), database backups, and media files (psd, flv, etc)._
+*** *Warning: Git will do its best to compress files, but large files can cause your repo to become unwieldy. Try to avoid committing things like compressed files (.zips, etc), compiled code (object files, libraries, executables), database backups, and media files (psd, flv, etc).*
 <br />
 <br />
 <br />
