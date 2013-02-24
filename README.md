@@ -1,7 +1,5 @@
-##pyladies_guides
+##pyladies guides
 <br />
-
-#####"How To" materials on various topics created in the context of PyLadiesPDX
 
 A collection of "get started" guides covering a range of topics.
 
